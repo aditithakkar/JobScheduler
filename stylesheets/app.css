@@ -1,0 +1,31 @@
+body{
+	background-image: url('https://s-media-cache-ak0.pinimg.com/originals/e8/f6/42/e8f642f8d90987b5571fc5132d6143ad.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	padding-top: 3%;
+}
+
+button{
+	margin-left: 45%;
+	font-size: larger;
+	margin-top: 1.5%;
+	background: transparent;
+	padding: 1%;
+	border: 3px solid gold;
+	font-family: fantasy;
+	cursor: pointer;
+	margin-bottom: 2%;	
+}
+h1{
+	text-align: center;
+	font-family: fantasy;
+	
+}
+#appListArea{
+	height: 350px;
+    overflow-y: scroll;
+}
+
+#appListArea::-webkit-scrollbar { 
+  display: none;
+}

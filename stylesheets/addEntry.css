@@ -1,0 +1,24 @@
+#addEntry{
+	margin: 0 auto;
+	margin-left: 40%;
+	margin-right: 40%;
+	font-family: fantasy;
+	border: 3px solid gold;
+}
+
+form{
+	padding: 5%;
+}
+
+input,textarea{
+	padding: 1%;
+	margin-left: 1%;
+}
+
+button{
+	background: transparent;
+	padding: 1%;
+	border: 1px solid black;
+	font-family: fantasy;
+	cursor: pointer;
+}

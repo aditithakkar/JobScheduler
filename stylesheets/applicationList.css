@@ -1,0 +1,18 @@
+.applications {
+	display: inline-grid;
+	padding-top: 0;
+	padding-left: 3%;
+	padding-right: 3%;
+	text-align: center;
+}
+
+#appList{
+	text-align: center;
+}
+
+.applications h2 {
+	font-family: fantasy;
+	border-bottom:  2px solid gold;
+    border-radius: 10%;
+    padding: 4%;
+}
