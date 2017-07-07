@@ -29,3 +29,13 @@ h1{
 #appListArea::-webkit-scrollbar { 
   display: none;
 }
+
+#searchBar{
+	margin-left: 25%;
+	border-color:gold;
+	font-family: fantasy;
+}
+#searchBar:focus{
+	outline:none;
+    box-shadow:0 0 7px gold;
+}

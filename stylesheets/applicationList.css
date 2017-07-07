@@ -10,6 +10,25 @@
 	text-align: center;
 }
 
+#close{
+	position: absolute;
+	top:0;
+	right: 30px;
+	border: none;
+	color: red;
+}
+
+#searchList{
+	position: relative;
+	background: beige;
+	text-align: center;
+	font-size: 70%;
+	border-top: 1px solid gold;
+	border-bottom: 1px solid gold;
+	margin: 3%;
+
+}
+
 .applications h2 {
 	font-family: fantasy;
 	border-bottom:  2px solid gold;
